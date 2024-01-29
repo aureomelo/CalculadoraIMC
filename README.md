@@ -1,5 +1,5 @@
-# Calculadora IMC
-Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO. 
+# BMI Calculator
+The development of the BMI Calculator was the first steps in the area of Android development. I participated in the 10D challenge in the DevSpace community and managed to get out of ZERO.
 
 
 
@@ -7,7 +7,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 <!-- You can add more screenshots here if you like -->
 <img src="/results/image1.png" width="260">&emsp;<img src="/results/image2.png" width="260">&emsp;<img src="/results/image3.png" width="260">
 
-## Tecnologias
+## Technologies
 * Kotlin
 * Activity para host de telas
 * ViewGroup
@@ -24,7 +24,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 
 ### TODO
-- Melhorar a Interface do App
+- Improve the App Interface
 
 ## Author
 Aureo Melo (follow me on [Linkedin](https://www.linkedin.com/in/aureo-melo-92555577/))
